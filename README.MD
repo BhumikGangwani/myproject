@@ -1,0 +1,1 @@
+This project will collect images of dogs and cats from the internet.
